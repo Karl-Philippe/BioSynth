@@ -1,0 +1,20 @@
+# Exemple de requirements.txt
+
+# Dépendances pour la communication avec SuperCollider (choisissez l'une des bibliothèques)
+# sc3nb pour SuperCollider 3 (spécifique à SuperCollider)
+sc3nb==1.0.5
+
+# python-osc pour la communication OSC générique
+python-osc==1.7.4
+
+# Bibliothèque pour le traitement des signaux vitaux (à adapter en fonction de votre choix)
+# par exemple : si vous utilisez OpenCV pour le traitement d'image
+opencv-python==4.5.3.56
+
+# Bibliothèque pour l'estimation de la pose des mains
+# par exemple : si vous utilisez MediaPipe
+mediapipe==0.8.5
+
+# Bibliothèque pour l'interface utilisateur
+# par exemple : si vous utilisez Tkinter
+tk==8.6.10
