@@ -1,4 +1,4 @@
-# Project Title: Biomusic Synthesizer Controlled by Vital Signs and Movements
+# BioSynth: Music Synthesizer Controlled by Vital Signs and Movements
 
 ## Description
 This project is about creating an innovative tool that combines the fields of music, biomedicine, rehabilitation, and physiotherapy. It involves an interactive musical synthesizer that generates real-time music based on the user’s vital signs, such as heart rate, respiratory rate, and oxygen levels, while also being controlled by body movements.
